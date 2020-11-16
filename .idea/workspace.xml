@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79d954d4-2c20-49f2-91fa-2d2dd70ccfca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/build/project.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/project.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scenes/GameScene.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scenes/GameScene.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scenes/TitleScene.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scenes/TitleScene.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kLmfjPLmBaLLgTYLYml37a6Hh6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -71,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605488350276</updated>
-      <workItem from="1605488351473" duration="1375000" />
+      <workItem from="1605488351473" duration="1451000" />
+      <workItem from="1605490738133" duration="19000" />
     </task>
     <servers />
   </component>
@@ -88,6 +86,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1001" y="520" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605488419798">
