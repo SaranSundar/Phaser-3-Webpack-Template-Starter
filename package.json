@@ -1,0 +1,16 @@
+{
+  "name": "phaser3-webpack-template-starter",
+  "version": "1.0.0",
+  "description": "A Phaser 3 Webpack based Project Template Starter",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "npm run build && webpack-dev-server --port=8000"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0",
+    "webpack": "^5.4.0",
+    "raw-loader": "^4.0.2",
+    "phaser": "^3.24.1"
+  }
+}
